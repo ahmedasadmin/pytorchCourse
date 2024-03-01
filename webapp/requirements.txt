@@ -1,0 +1,6 @@
+requests==2.31.0
+torch==1.13.1+cpu
+torchvision==0.14.1+cpu
+Pillow==9.4.0
+gunicorn 
+Flask==2.2.5
